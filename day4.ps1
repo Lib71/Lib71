@@ -1,6 +1,6 @@
 # day4
 # Varibel
-$filepath = "C:\Users\fralib\Documents\PS-Projects\"
+$filepath = "C:\Users\xxxxxx\Documents\PS-Projects\"
 $outfile = "report.txt"
 $date = Get-Date
 
